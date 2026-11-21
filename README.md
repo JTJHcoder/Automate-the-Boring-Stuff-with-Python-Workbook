@@ -1,6 +1,6 @@
 # Automate the Boring Stuff with Python — Progress
 
-**Self-study of textbook
+**Self-study of textbook**
 
 
 **Chapters Completed:** 0 / 20
